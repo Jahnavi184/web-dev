@@ -1,1 +1,1 @@
-Basic html tags project
+Basic html tags project.
